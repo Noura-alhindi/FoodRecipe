@@ -32,7 +32,7 @@ I start building by creating a react app and add functions then in styling .
 
 
 ---
- ## Author
+ ## By
 
 Noura ALHindi ..
 
