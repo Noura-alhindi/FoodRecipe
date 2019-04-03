@@ -1,11 +1,8 @@
 import React, { Component } from 'react'
-// import Image from 'react-bootstrap/Image'
 import './Nav.css'
 import {Row} from 'react-bootstrap'
 import {Container} from 'react-bootstrap'
 import {Col} from 'react-bootstrap'
-// import {SafeAnchor} from 'react-bootstrap'
-// import {H2} from 'react-bootstrap/'
 
 
 export class Recipe extends Component {

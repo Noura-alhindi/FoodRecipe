@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import './Nav.css'
 import {Button} from 'react-bootstrap'
-// import {Input} from 'react-bootstrap'
 
 export default class Nav extends Component {
 state ={}
