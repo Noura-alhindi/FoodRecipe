@@ -28,7 +28,7 @@ I start building by creating a react app and add functions then in styling .
 ## Future Plans ..
 - Add recipe rating .
 - user can add comments.
-- Extra styling Future .
+- Extra styling Features .
 
 
 ---
