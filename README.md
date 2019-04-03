@@ -22,7 +22,7 @@ I start building by creating a react app and add functions then in styling .
 ---
 
 ##  Deployed ..
-   You can view the websit there --> https://github.com/Noura-alhindi/FoodRecipe
+   You can view the websit there --> https://noura-alhindi.github.io/FoodRecipe/
 
 ---
 ## Future Plans ..
