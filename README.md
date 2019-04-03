@@ -12,7 +12,7 @@ This is  **Food Recipe** website ,Is a place to find recipes from tons of recipe
 - React .
 - Css .
 - JavaScript .
-- Github for uploading the game . 
+- Github for deploying . 
 
 ---
 
